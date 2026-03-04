@@ -13,9 +13,9 @@ Recurso: (Persona A: escribe una URL o nombre de recurso)
 --- BACKEND ---
 [ASIGNADO A PERSONA B]
 Tecnología: Node.js
-Descripción: (Persona B: escribe una descripción breve)
-Nivel: (Persona B: Básico / Intermedio / Avanzado)
-Recurso: (Persona B: escribe una URL o nombre de recurso)
+Descripción: I love this shit
+Nivel: GOD
+Recurso: Mypage.com
 
 --- BASE DE DATOS ---
 [ASIGNADO A PERSONA C]
