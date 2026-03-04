@@ -1,6 +1,6 @@
 === FICHA DEL EQUIPO ===
 
-ESTADO DEL PROYECTO: En desarrollo
+ESTADO DEL PROYECTO: En revisión de contenido
 VERSIÓN: 0.2
 
 === INTEGRANTE A — COORDINADOR/A ===
