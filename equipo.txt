@@ -1,0 +1,19 @@
+=== FICHA DEL EQUIPO ===
+
+ESTADO DEL PROYECTO: En planificación
+VERSIÓN: 0.1
+
+=== INTEGRANTE A — COORDINADOR/A ===
+Nombre: Pol
+Tecnología asignada: React
+Estado personal: Pendiente
+
+=== INTEGRANTE B ===
+Nombre: Jaume
+Tecnología asignada: Node.js
+Estado personal: Pendiente
+
+=== INTEGRANTE C ===
+Nombre: Jaume
+Tecnología asignada: MongoDB
+Estado personal: Pendiente
