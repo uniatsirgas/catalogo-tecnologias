@@ -4,7 +4,7 @@ ESTADO DEL PROYECTO: En planificación
 VERSIÓN: 0.1
 
 === INTEGRANTE A — COORDINADOR/A ===
-Nombre: Pol
+Nombre: Pol Garcia
 Tecnología asignada: React
 Estado personal: Pendiente
 
