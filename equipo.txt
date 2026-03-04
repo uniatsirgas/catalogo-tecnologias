@@ -1,7 +1,7 @@
 === FICHA DEL EQUIPO ===
 
-ESTADO DEL PROYECTO: Activo
-VERSIÓN: 1.0
+ESTADO DEL PROYECTO: En desarrollo
+VERSIÓN: 0.2
 
 === INTEGRANTE A — COORDINADOR/A ===
 Nombre: Pol Garcia
