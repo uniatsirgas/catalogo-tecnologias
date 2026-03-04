@@ -6,20 +6,20 @@ RESPONSABLE: (completar con el nombre del revisor)
 --- FRONTEND ---
 [ASIGNADO A PERSONA A]
 Tecnología: React
-Descripción: (Persona A: escribe una descripción breve)
-Nivel: (Persona A: Básico / Intermedio / Avanzado)
-Recurso: (Persona A: escribe una URL o nombre de recurso)
+Descripción: me encanta react
+Nivel: basico
+Recurso: url xD
 
 --- BACKEND ---
 [ASIGNADO A PERSONA B]
 Tecnología: Node.js
-Descripción: (Persona B: escribe una descripción breve)
-Nivel: (Persona B: Básico / Intermedio / Avanzado)
-Recurso: (Persona B: escribe una URL o nombre de recurso)
+Descripción: I love this shit
+Nivel: GOD
+Recurso: Mypage.com
 
 --- BASE DE DATOS ---
 [ASIGNADO A PERSONA C]
 Tecnología: MongoDB
-Descripción: (Persona C: escribe una descripción breve)
-Nivel: (Persona C: Básico / Intermedio / Avanzado)
-Recurso: (Persona C: escribe una URL o nombre de recurso)
+Descripción: Muy util
+Nivel: Noob
+Recurso: bdd
