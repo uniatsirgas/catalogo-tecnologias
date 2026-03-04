@@ -1,7 +1,7 @@
 === CATÁLOGO DE TECNOLOGÍAS WEB ===
 
-ÚLTIMA REVISIÓN: (completar con la fecha actual)
-RESPONSABLE: (completar con el nombre del revisor)
+ÚLTIMA REVISIÓN: 04-03-2026
+RESPONSABLE: Jaume Casamitjana
 
 --- FRONTEND ---
 [ASIGNADO A PERSONA A]
