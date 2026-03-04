@@ -1,7 +1,7 @@
 === FICHA DEL EQUIPO ===
 
 ESTADO DEL PROYECTO: En planificación
-VERSIÓN: 0.2
+VERSIÓN: 1.0
 
 === INTEGRANTE A — COORDINADOR/A ===
 Nombre: Pol Garcia
@@ -14,6 +14,6 @@ Tecnología asignada: Node.js
 Estado personal: Pendiente
 
 === INTEGRANTE C ===
-Nombre: Jaume
+Nombre: Jaume Casamitjana MMM
 Tecnología asignada: MongoDB
 Estado personal: Pendiente
